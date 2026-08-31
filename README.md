@@ -16,7 +16,9 @@ When reporting a problem, please include enough information to reproduce or unde
 - What you expected to happen
 - Steps to reproduce the issue
 - Browser or environment, if relevant
-- Any relevant error messages
+- Any relevant error messages'
+
+To open an issue either head to the issues tab or click [here](https://github.com/7Cyphr/cyphr-support/issues/new).
 
 ---
 
